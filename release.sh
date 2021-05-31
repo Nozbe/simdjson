@@ -44,5 +44,5 @@ echo "release on npm..."
 npm publish
 
 echo "push to git..."
-git push origin master
+git push origin main
 git push --tags
