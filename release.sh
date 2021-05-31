@@ -39,3 +39,10 @@ git commit -m "Updating src files for simdjson ${simdjson_version}"
 
 echo "tagging package.json..."
 npm version "$npm_version"
+
+echo "release on npm..."
+npm publish
+
+echo "push to git..."
+git push origin master
+git push --tags
