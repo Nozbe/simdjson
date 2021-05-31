@@ -1,14 +1,13 @@
 {
   "name": "@nozbe/simdjson",
   "description": "NPM-released fork of simdjson C++ library",
-  "version": "",
+  "version": "0.9.5",
   "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/Nozbe/simdjson.git"
   },
   "license": "Apache-2.0",
-  "dependencies": {},
   "publishConfig": {
     "access": "public"
   },
