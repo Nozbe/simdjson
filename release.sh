@@ -37,5 +37,5 @@ git add src/simdjson.cpp
 git add src/simdjson.h
 git commit -m "Updating src files for simdjson ${simdjson_version}"
 
-echo "tagging package.json"
+echo "tagging package.json..."
 npm version "$npm_version"
