@@ -1,7 +1,9 @@
 {
   "name": "@nozbe/simdjson",
   "description": "NPM-released fork of simdjson C++ library",
-  "version": "0.9.6-fix",
+  "version": "0.9.6-fix2",
+  "author": "simdjson authors",
+  "homepage": "https://github.com/Nozbe/simdjson",
   "scripts": {},
   "repository": {
     "type": "git",
