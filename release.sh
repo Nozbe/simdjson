@@ -18,7 +18,7 @@ fi
 echo "updating repo..."
 cd simdjson-repo
 git checkout master
-git pull origin master
+git pull
 git checkout "${simdjson_version}"
 cd ..
 
